@@ -2,3 +2,5 @@ venus
 tierra
 marte 
 jupiter
+sistema solar
+sol
